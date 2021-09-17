@@ -12,7 +12,7 @@
         "imagine/imagine": "^1.2"
     },
     "bin": [
-        "compress"
+        "bin/compress"
     ],
     "license": "MIT"
 }
