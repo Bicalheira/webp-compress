@@ -1,0 +1,14 @@
+{
+    "name": "bicalheira/webp-compress",
+    "type": "library",
+    "description": "Conversor de imagens para formato .webp utilizando PHP",
+    "authors": [
+        {
+            "name": "Lucas Bicalho",
+            "email": "bicalho97@hotmail.com"
+        }
+    ],
+    "require": {
+        "imagine/imagine": "^1.2"
+    }
+}
